@@ -1,0 +1,17 @@
+C:\Users\HP\Downloads\mappings\src\main\java\com\springjpa\mappings\model\Pages.java
+C:\Users\HP\Downloads\mappings\src\main\java\com\springjpa\mappings\MappingsApplication.java
+C:\Users\HP\Downloads\mappings\src\main\java\com\springjpa\mappings\model\Book.java
+C:\Users\HP\Downloads\mappings\src\main\java\com\springjpa\mappings\repository\BookRepository.java
+C:\Users\HP\Downloads\mappings\src\main\java\com\springjpa\mappings\service\impl\PageServiceImpl.java
+C:\Users\HP\Downloads\mappings\src\main\java\com\springjpa\mappings\exception\BookNotFoundException.java
+C:\Users\HP\Downloads\mappings\src\main\java\com\springjpa\mappings\repository\PageRepository.java
+C:\Users\HP\Downloads\mappings\src\main\java\com\springjpa\mappings\dto\BookDto.java
+C:\Users\HP\Downloads\mappings\src\main\java\com\springjpa\mappings\mapper\PageMapper.java
+C:\Users\HP\Downloads\mappings\src\main\java\com\springjpa\mappings\mapper\BookMapper.java
+C:\Users\HP\Downloads\mappings\src\main\java\com\springjpa\mappings\controller\BookController.java
+C:\Users\HP\Downloads\mappings\src\main\java\com\springjpa\mappings\dto\PageDto.java
+C:\Users\HP\Downloads\mappings\src\main\java\com\springjpa\mappings\service\impl\BookServiceImpl.java
+C:\Users\HP\Downloads\mappings\src\main\java\com\springjpa\mappings\service\BookService.java
+C:\Users\HP\Downloads\mappings\src\main\java\com\springjpa\mappings\service\PageService.java
+C:\Users\HP\Downloads\mappings\src\main\java\com\springjpa\mappings\exception\PageNotFoundException.java
+C:\Users\HP\Downloads\mappings\src\main\java\com\springjpa\mappings\controller\PageController.java
