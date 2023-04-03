@@ -1,0 +1,17 @@
+com\ladera\project\jpamappings\mapper\impl\AllEntityMapperImpl.class
+com\ladera\project\jpamappings\dto\CartDto.class
+com\ladera\project\jpamappings\service\CartProductUserService.class
+com\ladera\project\jpamappings\repository\UserRepository.class
+com\ladera\project\jpamappings\mapper\AllEntityMapper.class
+com\ladera\project\jpamappings\model\Product.class
+com\ladera\project\jpamappings\JpaMappingsApplication.class
+com\ladera\project\jpamappings\controller\CartProductUserController.class
+com\ladera\project\jpamappings\repository\CartRepository.class
+com\ladera\project\jpamappings\dto\ProductCartUserVo.class
+com\ladera\project\jpamappings\model\Cart.class
+com\ladera\project\jpamappings\dto\UserDto.class
+com\ladera\project\jpamappings\dto\ProductDto.class
+com\ladera\project\jpamappings\dto\ProductUserDto.class
+com\ladera\project\jpamappings\model\User.class
+com\ladera\project\jpamappings\service\impl\CartProductUserServiceImpl.class
+com\ladera\project\jpamappings\repository\ProductRepository.class
